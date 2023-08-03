@@ -1,5 +1,5 @@
 # thewildjames.github.io
 
-[twjr]
-SigLevel = Optional DatabaseOptional
+[twjr] /n
+SigLevel = Optional DatabaseOptional /n
 Server = https://thewildjames.github.io/$repo/$arch
