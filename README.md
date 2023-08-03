@@ -22,8 +22,6 @@
 [![Forks][forks-shield]][forks-url]
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
-[![MIT License][license-shield]][license-url]
-[![LinkedIn][linkedin-shield]][linkedin-url]
 
 
 
@@ -34,16 +32,14 @@
     <img src="images/logo.png" alt="Logo" width="80" height="80">
   </a>
 
-  <h3 align="center">Best-README-Template</h3>
+  <h3 align="center">The Wild James Repo</h3>
 
   <p align="center">
-    An awesome README template to jumpstart your projects!
+    Just a test repo for arch linux!
     <br />
     <a href="https://github.com/TheWildJames/thewildjames.github.io"><strong>Explore the docs »</strong></a>
     <br />
     <br />
-    <a href="https://github.com/TheWildJames/thewildjames.github.io">View Demo</a>
-    ·
     <a href="https://github.com/TheWildJames/thewildjames.github.io/issues">Report Bug</a>
     ·
     <a href="https://github.com/TheWildJames/thewildjames.github.io/issues">Request Feature</a>
@@ -247,10 +243,6 @@ Use this space to list resources you find helpful and would like to give credit 
 [stars-url]: https://github.com/TheWildJames/thewildjames.github.io/stargazers
 [issues-shield]: https://img.shields.io/github/issues/TheWildJames/thewildjames.github.io.svg?style=for-the-badge
 [issues-url]: https://github.com/TheWildJames/thewildjames.github.io/issues
-[license-shield]: https://img.shields.io/github/license/TheWildJames/thewildjames.github.io.svg?style=for-the-badge
-[license-url]: https://github.com/TheWildJames/thewildjames.github.io/blob/main/LICENSE.txt
-[linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
-[linkedin-url]: https://linkedin.com/in/othneildrew
 [product-screenshot]: images/screenshot.png
 [Next.js]: https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white
 [Next-url]: https://nextjs.org/
